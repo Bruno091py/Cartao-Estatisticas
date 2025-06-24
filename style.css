@@ -29,15 +29,6 @@ body {
     background-color: hsl(233, 47%, 7%);
 }
 
-picture > img {
-    width: 40vw;
-    height: 60vh;
-    position: absolute;
-    left: 50%;
-    top: 20%;
-    border-radius: 0px 15px 15px 0px;
-}
-
 main {
     margin: auto;
     width: 40vw;
@@ -89,8 +80,8 @@ main p, article{
     .dados p {
         font-weight: 700;
     }
-        */
-
+        
+*/
 * {
     margin: 0px;
     padding: 0px;
@@ -170,4 +161,3 @@ div.attribution > a {
     text-decoration: none;
     font-weight: 600;
 }
-
